@@ -1,0 +1,6 @@
+---
+- hosts: localhost
+  strategy: free
+  roles:
+    - test_one
+    - test_two

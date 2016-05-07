@@ -1,0 +1,3 @@
+---
+dependencies:
+  - { role: dep_one }

@@ -1,0 +1,3 @@
+---
+- name: Say hi
+  debug: msg="I am in the dependency"
